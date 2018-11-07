@@ -1,3 +1,5 @@
 # MusicPlayer-WebTest
-网页播放小测试
-![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+###网页播放效果预览
+
+##Demo(cwuc.cc/music)
+![player](http://cwuc.cc/static/musicview.png)
