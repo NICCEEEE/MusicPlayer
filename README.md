@@ -3,4 +3,4 @@
 ----------
 
 ### 网页播放效果预览
-![player](http://cwuc.cc/static/musicview.png)
+![player](http://cwuc.cc/static/images/musicview.png)
